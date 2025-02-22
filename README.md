@@ -10,11 +10,11 @@ Welcome to my MPlayVid repository. This project is a React-based video streaming
   <a href="#features">Features</a> •
   <a href="#Files">Files</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#packages">Screenshots</a> • 
+  <a href="#Screenshots">Screenshots</a> • 
   <a href="#packages">Packages</a>   
 </p>
 <p align="center" >
-<a href="https://whosbl33h.netlify.app/">Try it out here</a> 
+<a href="https://jazzy-bombolone-c57a32.netlify.app/">Try it out here</a> 
 </p>
 
 ## Overview
