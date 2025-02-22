@@ -6,9 +6,11 @@ Welcome to my MPlayVid repository. This project is a React-based video streaming
   <br>
 </p>
 <p align="center" >
+  <a href="#Overview">Overview</a> •
   <a href="#features">Features</a> •
   <a href="#Files">Files</a> •
   <a href="#how-to-use">How To Use</a> •
+  <a href="#packages">Screenshots</a> • 
   <a href="#packages">Packages</a>   
 </p>
 <p align="center" >
@@ -49,6 +51,10 @@ $ npm i
 # Run the app
 $ npm run dev
 ```
+## Screenshots
+<img src="https://github.com/user-attachments/assets/41433d8a-86ec-4e07-a9a5-1aadfbfa4d84" width="700"/> ---> <img src="https://github.com/user-attachments/assets/0add05de-67b8-424f-b848-9d1d6be53a41" width="200"/>
+
+<img src="https://github.com/user-attachments/assets/305bae0d-6518-4b28-b0eb-2efd5e207a56" width="700"/> ---> <img src="https://github.com/user-attachments/assets/45107594-b4de-4496-a226-2f206a9b1c58" width="200"/>
 
 ## Packages
 
