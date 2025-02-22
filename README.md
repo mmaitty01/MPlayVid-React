@@ -15,27 +15,12 @@ Welcome to my MPlayVid repository. This project is a React-based video streaming
 <a href="https://whosbl33h.netlify.app/">Try it out here</a> 
 </p>
 
-## Project Overview
-
-This project is a React-based video streaming website where users can:
-
-View videos in a 4x5 grid on the homepage.
-
-Click on a video thumbnail to open a full-screen video page.
-
-Search for videos by title, category, or uploader.
-
-Filter videos based on categories like Cooking, Sports, K-pop, etc.
-
-Load more videos dynamically.
-
-Get random suggested videos on the video page.
-
-Enjoy a responsive design for both desktop and mobile users.
+## Overview
+MPlayVid is a React-based video streaming website that offers an easy-to-use experience for exploring and watching videos. The homepage displays a 4x3 grid of video thumbnails, and users can watch videos in full-screen mode by clicking a thumbnail. It features a search bar to find videos by title, category, or uploader, along with category filters like Cooking, Sports, Gaming, and Music. The site dynamically loads more videos as users scroll. Video pages suggest random videos for further exploration. MPlayVid is responsive, providing a seamless experience on both desktop and mobile devices.
 
 ## Features
 
-- Video Grid Layout with a Load More button
+- Video Grid (4*3) Layout with a Load More button
 - Search functionality (by title, category, and uploader)
 - Category Filter for easy navigation
 - Full-screen Video Page with random suggested videos
